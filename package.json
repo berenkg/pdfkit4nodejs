@@ -1,0 +1,15 @@
+{
+  "name": "pdfkit_example",
+  "version": "1.0.0",
+  "description": "İlk olarak aşağıdaki kodu alın ve çalıştırın. Bunun için `npm install pdfkit --save` modülünü projenize dahil etmeniz gerekmektedir çünkü anlatacağımız modül `pdfkit` modülüdür.",
+  "main": "deneme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pdfkit": "^0.10.0"
+  }
+}
